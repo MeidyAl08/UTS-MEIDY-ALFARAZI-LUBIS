@@ -1,0 +1,14 @@
+{
+    "name": "meidy/uts-blog",
+    "description": "UTS Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Meidy Alfarazi Lubis",
+            "email": "meidy.lubis08@gmai.com"
+        }
+    ]
+}

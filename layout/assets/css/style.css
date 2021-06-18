@@ -1,0 +1,152 @@
+
+|
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid gray;
+	background-color: white;
+	font-family: century gothic;
+	padding: 10px;
+	background: #fff;
+}
+
+.container {
+	background: #fff;
+	width: 1020px;
+	margin: auto;
+	padding: 10px;
+}
+
+.kepala {
+
+}
+
+
+
+td {
+	text-align: left;
+}
+
+th {
+	text-align: center;
+}
+
+h1 {
+	margin: auto;
+	color: salmon;
+	margin-bottom: 10px;
+	font-size: 50px;
+	margin-top: 40px;
+	font-family: century gothic;
+}
+
+h2 {
+	margin: auto;
+	color: salmon;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-family: century gothic;
+}
+
+.menu  {
+	
+	padding: 10px;
+	background-color: salmon;
+	color: white;
+	text-decoration: none;
+	top: 0px;
+	position: sticky;
+	margin-bottom: 20px;
+	font-family: century gothic;
+	text-align: left;
+}
+
+.menu a {
+	padding: 10px;
+	color:white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: white ;
+	color: salmon;
+
+}
+
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+
+
+
+table {
+	
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid none;
+	border-collapse: collapse;
+	box-sizing : border-box;
+	text-align: center;
+	align-self: center;
+	background-color: seashell;
+	font-family: century gothic;
+}
+
+table th {
+	text-align: center;
+	border: 1px solid lightgray;
+	padding: 10px;
+	background-color: salmon;
+	color: #ffffff;
+	font-family: century gothic;
+}
+
+table td {
+	border: 1px solid lightgray;
+	padding:10px;
+
+}
+
+
+
+.footer {
+
+	padding: 10px;
+	background-color: salmon;
+	bottom: 0px;
+	color: white;
+	position: sticky;
+	font-family: calibri;
+}
+
+
+
+.tmbl {
+	background-color: salmon;
+	color: white;
+	font-family: century gothic;
+}
+
+
+
+p {
+	font-family: century gothic;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 25px;
+	color: salmon;
+}
+
+
+.foto {
+	margin-top: 50px;
+}
+
+.tulisan {
+	margin-bottom: 60px;
+}
